@@ -1,0 +1,11 @@
+﻿/* Styles form kids badge page  */
+
+.badge .busy {
+    display: none;
+}
+
+.badge progress {
+    width: 50.2rem;
+    height: 2rem;
+}
+    

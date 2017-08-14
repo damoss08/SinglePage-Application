@@ -1,0 +1,22 @@
+﻿.teachers ul {
+    list-style-type: none;
+    padding: 0;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap;
+}
+.teachers li {
+    display: block;
+    margin: 0 2rem 1rem 0;
+}
+
+.teachers li img {
+    border: 1px solid #888;
+    width: 100px;
+    height 100px;
+}
+
+.teachers li .name {
+    text-align: center;
+    display:block;
+}

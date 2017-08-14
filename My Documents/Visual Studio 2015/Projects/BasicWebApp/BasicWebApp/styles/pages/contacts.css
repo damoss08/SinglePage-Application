@@ -1,0 +1,28 @@
+﻿/* Styles for contact page*/
+
+.contacts form {
+    max-width:40rem;
+}
+
+.contacts .field {
+    margin-bottom: 1rem;
+}
+.contacts label {
+    display: block;
+}
+.contacts input {
+    display:block;
+    padding:.5rem;
+    width: 100%;
+    box-sizing:border-box;
+}
+.contacts button {
+    padding: .5rem;
+}
+
+.register form.submission-attempted input:invalid {
+    border: 1px solid #b00;
+}
+
+
+
